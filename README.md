@@ -17,10 +17,14 @@
 
 ## 🔗 Ссылка
 
- [Продукты из ели sprucevita.com](https://alexfedd.github.io/gamechrono/)
+ [Игровое издание gamechrono.com](https://alexfedd.github.io/gamechrono/)
 
 
 ## Картинки
-![](./assets/alexfedd.github.io_sprucevita_.jpg)
+![](https://github.com/alexfedd/gamechrono.com/blob/main/alexfedd.github.io_gamechrono_index.html.jpg)
+![](https://github.com/alexfedd/gamechrono.com/blob/main/alexfedd.github.io_gamechrono_news.html.jpg)
+![](https://github.com/alexfedd/gamechrono.com/blob/main/alexfedd.github.io_gamechrono_chronology.html.jpg)
+![](https://github.com/alexfedd/gamechrono.com/blob/main/alexfedd.github.io_gamechrono_contacts.html.jpg)
+![](https://github.com/alexfedd/gamechrono.com/blob/main/alexfedd.github.io_gamechrono_article.html.jpg)
 
 
